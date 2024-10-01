@@ -1,0 +1,153 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+
+    <script>
+        window.addEventListener("beforeunload", (event) => {
+            // Cancel the event as stated by the standard.
+            event.preventDefault();
+            // Chrome requires returnValue to be set.
+            event.returnValue = "";
+        });
+    </script>
+    <script src="js/countdown.js"></script>
+    <script src="js/submit.js"></script>
+    <script src="js/change-color.js"></script>
+    <script>
+        // by minute, must be a integer
+        var totalTime = 60;
+    </script>
+
+    <title>洪泽湖监狱生产安全知识测试</title>
+</head>
+
+<body>
+
+    <h1>洪泽湖监狱生产安全知识测试</h1>
+
+    <p>
+        题数：100
+        <br />
+        总计时间：60分钟
+        <br />
+        剩余时间（自动交卷）：<span id="min"></span> 分 <span id="sec"></span> 秒
+    </p>
+
+    <script>
+        var dateStart = new Date();
+        var timestampStart = dateStart.getTime();
+
+        var targetTime = new Date();
+        targetTime.setMinutes(targetTime.getMinutes() + totalTime);
+
+        var minEle = document.getElementById("min");
+        var secEle = document.getElementById("sec");
+
+        setInterval(renderCountDown, 500);
+
+        setInterval(() => {
+            currentDiffSec = targetTime.getTime() - Date.now();
+            if (currentDiffSec <= 0) {
+                alert("作答时间到。");
+                while (true) {
+                    submit();
+                }
+            }
+        }, 500);
+    </script>
+
+    <div>
+        <form>
+            <fieldset id="grey">
+                姓名 <input type="text" id="testerName" onfocus="changeColor(this)" placeholder="输入你的姓名"><br />
+                单位 <input type="text" id="testerUnit" onfocus="changeColor(this)" placeholder="输入你的所属单位"><br />
+                </filedset>
+        </form>
+    </div>
+
+    <br />
+
+    <h2>单选题</h2>
+
+    <fieldset class="questionSingle">
+        <p id="1">1. 为了加强安全生产工作，（   ）生产安全事故，保障人民群众生命和财产安全，促进经济社会持续健康发展，制定《安全生产法》。</p>
+        <label id="1"><input type="radio" name="answer1" value="incorrect" />A. 防止</label>
+        <br />
+        <label id="1"><input type="radio" name="answer1" value="incorrect" />B. 减少</label>
+        <br />
+        <label id="1"><input type="radio" name="answer1" value="incorrect" />C. 杜绝</label>
+        <br />
+        <label id="1"><input type="radio" name="answer1" value="correct" />D. 防止和减少</label>
+        <br />
+    </fieldset>
+
+    <fieldset class="questionSingle">
+        <p id="2">2. 国家实行生产安全事故责任追究制度，依照《安全生产法》和有关法律、法规的规定，追究（   ）的法律责任。</p>
+        <label id="2"><input type="radio" name="answer2" value="incorrect" />A. 生产安全事故发生单位负责人</label>
+        <br />
+        <label id="2"><input type="radio" name="answer2" value="incorrect" />B. 生产安全事故直接责任者</label>
+        <br />
+        <label id="2"><input type="radio" name="answer2" value="incorrect" />C. 生产安全事故单位监管部门</label>
+        <br />
+        <label id="2"><input type="radio" name="answer2" value="correct" />D. 生产安全事故责任单位和责任人员</label>
+        <br />
+    </fieldset>
+
+    <fieldset class="questionSingle">
+        <p id="3">3. 安全生产工作坚持中国共产党的领导。安全生产工作应当以人为本，坚持人民至上、生命至上，把保护人民生命安全摆在首位，树牢（   ）理念，坚持安全第一、预防为主、综合治理的方针，从源头上防范化解重大安全风险。</p>
+        <label id="3"><input type="radio" name="answer3" value="correct" />A. 安全发展</label>
+        <br />
+        <label id="3"><input type="radio" name="answer3" value="incorrect" />B. 经济发展</label>
+        <br />
+        <label id="3"><input type="radio" name="answer3" value="incorrect" />C. 社会发展</label>
+        <br />
+        <label id="3"><input type="radio" name="answer3" value="incorrect" />D. 和谐发展</label>
+        <br />
+    </fieldset>
+
+    <h2>多选题</h2>
+
+    <fieldset class="questionMultiple">
+        <p id="4">4. 安全生产工作应当（   ），从源头上防范化解重大安全风险。</p>
+        <label id="4"><input type="checkbox" name="answer4" value="correct" />A. 以人为本</label>
+        <br />
+        <label id="4"><input type="checkbox" name="answer4" value="correct" />B. 坚持人民至上、生命至上</label>
+        <br />
+        <label id="4"><input type="checkbox" name="answer4" value="correct" />C. 把保护人民生命安全摆在首位，树牢安全发展理念，</label>
+        <br />
+        <label id="4"><input type="checkbox" name="answer4" value="correct" />D. 坚持安全第一、预防为主、综合治理的方针</label>
+        <br />
+    </fieldset>
+
+    <fieldset class="questionMultiple">
+        <p id="5">5. 安全生产工作实行（   ），强化和落实生产经营单位主体责任与政府监管责任，建立生产经营单位负责、职工参与、政府监管、行业自律和社会监督的机制。</p>
+        <label id="5"><input type="checkbox" name="answer5" value="correct" />A. 管行业必须管安全</label>
+        <br />
+        <label id="5"><input type="checkbox" name="answer5" value="correct" />B. 管业务必须管安全</label>
+        <br />
+        <label id="5"><input type="checkbox" name="answer5" value="correct" />C. 管生产经营必须管安全</label>
+        <br />
+        <label id="5"><input type="checkbox" name="answer5" value="incorrect" />D. 管生产必须管安全</label>
+        <br />
+    </fieldset>
+
+    <fieldset class="questionMultiple">
+        <p id="6">6. 生产经营单位必须遵守本法和其他有关安全生产的法律、法规，加强安全生产管理，建立健全全员安全生产责任制和安全生产规章制度，加大对安全生产(   )的投入保障力度。</p>
+        <label id="6"><input type="checkbox" name="answer6" value="correct" />A. 资金</label>
+        <br />
+        <label id="6"><input type="checkbox" name="answer6" value="correct" />B. 物资</label>
+        <br />
+        <label id="6"><input type="checkbox" name="answer6" value="correct" />C. 技术</label>
+        <br />
+        <label id="6"><input type="checkbox" name="answer6" value="correct" />D. 人员</label>
+        <br />
+    </fieldset>
+
+    <br />
+
+    <button style="width: 160px; height: 40px; font-size: medium;" onclick="submit()">提交答卷</button>
+
+</body>
+
+</html>

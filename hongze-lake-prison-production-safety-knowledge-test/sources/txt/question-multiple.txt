@@ -1,0 +1,1081 @@
+QUESTION_ORDER安全生产工作应当（   ），从源头上防范化解重大安全风险。
+ABCD
+QUESTION_OPTION以人为本
+QUESTION_OPTION坚持人民至上、生命至上
+QUESTION_OPTION把保护人民生命安全摆在首位，树牢安全发展理念，
+QUESTION_OPTION坚持安全第一、预防为主、综合治理的方针
+QUESTION_ORDER安全生产工作实行（   ），强化和落实生产经营单位主体责任与政府监管责任，建立生产经营单位负责、职工参与、政府监管、行业自律和社会监督的机制。
+ABC
+QUESTION_OPTION管行业必须管安全
+QUESTION_OPTION管业务必须管安全
+QUESTION_OPTION管生产经营必须管安全
+QUESTION_OPTION管生产必须管安全
+QUESTION_ORDER生产经营单位必须遵守本法和其他有关安全生产的法律、法规，加强安全生产管理，建立健全全员安全生产责任制和安全生产规章制度，加大对安全生产(   )的投入保障力度。
+ABCD
+QUESTION_OPTION资金
+QUESTION_OPTION物资
+QUESTION_OPTION技术
+QUESTION_OPTION人员
+QUESTION_ORDER县级以上地方各级人民政府应当组织有关部门建立完善安全风险评估与论证机制，按照安全风险管控要求，进行产业规划和空间布局，并对（   ）的生产经营单位实施重大安全风险联防联控。
+QUESTION_OPTION位置相邻
+QUESTION_OPTION行业相近
+QUESTION_OPTION业态相似
+QUESTION_OPTION       工艺相关
+QUESTION_ORDER国务院和县级以上地方各级人民政府应当加强对安全生产工作的领导，建立健全安全生产工作协调机制，（   ）各有关部门依法履行安全生产监督管理职责，及时协调、解决安全生产监督管理中存在的重大问题。
+QUESTION_OPTION监督
+QUESTION_OPTION支持
+QUESTION_OPTION督促
+QUESTION_OPTION指导
+QUESTION_ORDER生产经营单位应当在有较大危险因素的生产经营场所和有关（   ）上，设置明显的安全警示标志。
+QUESTION_OPTION设施
+QUESTION_OPTION设备
+QUESTION_OPTION机器
+QUESTION_OPTION岗位
+QUESTION_ORDER安全设备的设计、制造、安装、（   ）和报废，应当符合国家标准或者行业标准。
+QUESTION_OPTION使用
+QUESTION_OPTION检测
+QUESTION_OPTION维修
+QUESTION_OPTION改造
+QUESTION_ORDER(   )危险物品的车间、商店、仓库不得与员工宿舍在同一座建筑物内，并应当与员工宿舍保持安全距离。
+QUESTION_OPTION生产
+QUESTION_OPTION经营
+QUESTION_OPTION储存
+QUESTION_OPTION使用
+QUESTION_ORDER生产经营单位必须为从业人员提供符合国家标准或者行业标准的劳动防护用品，并（   ）从业人员按照使用规则佩戴、使用。
+QUESTION_OPTION教育
+QUESTION_OPTION培训
+QUESTION_OPTION监督
+QUESTION_OPTION告知
+QUESTION_ORDER应急管理部门和对有关行业、领域的安全生产工作实施监督管理的部门，统称负有安全生产监督管理职责的部门。负有安全生产监督管理职责的部门应当（   ），依法加强安全生产监督管理工作。
+QUESTION_OPTION相互配合
+QUESTION_OPTION齐抓共管
+QUESTION_OPTION信息共享
+QUESTION_OPTION资源共用
+QUESTION_ORDER国务院交通运输、住房和城乡建设、水利、民航等有关部门和县级以上地方人民政府建立健全相关(   )的生产安全事故应急救援信息系统。
+QUESTION_OPTION行业
+QUESTION_OPTION地区
+QUESTION_OPTION单位
+QUESTION_OPTION领域
+QUESTION_ORDER矿山、金属冶炼建设项目和用于生产、储存、装卸危险物品的建设项目的施工单位应当加强对施工项目的安全管理，不得(   )或者以其他形式非法转让施工资质，不得将其承包的全部建设工程转包给第三人或者将其承包的全部建设工程支解以后以分包的名义分别转包给第三人，不得将工程分包给不具备相应资质条件的单位。
+QUESTION_OPTION倒卖
+QUESTION_OPTION出租
+QUESTION_OPTION出借
+QUESTION_OPTION挂靠
+QUESTION_ORDER任何单位和个人都应当(    )事故抢救，并提供一切便利条件。
+QUESTION_OPTION支持
+QUESTION_OPTION配合
+QUESTION_OPTION理解
+QUESTION_OPTION服从
+QUESTION_ORDER事故调查处理应当按照 (    )的原则，及时、准确地查清事故原因，查明事故性质和责任，评估应急处置工作，总结事故教训，提出整改措施，并对事故责任单位和人员提出处理建议。
+QUESTION_OPTION依法依规
+QUESTION_OPTION实事求是
+QUESTION_OPTION注重实效
+QUESTION_OPTION科学严谨
+QUESTION_ORDER任何单位和个人不得(   )对事故的依法调查处理。
+QUESTION_OPTION阻挠
+QUESTION_OPTION干涉
+QUESTION_OPTION妨碍
+QUESTION_OPTION拒绝
+QUESTION_ORDER从业人员有权对本单位安全生产工作中存在的问题提出（   )；有权拒绝违章指挥和强令冒险作业。
+QUESTION_OPTION批评
+QUESTION_OPTION检举
+QUESTION_OPTION控告
+QUESTION_OPTION监督
+QUESTION_ORDER《安全生产法》规定，生产经营单位与从业人员订立劳动合同，应当载明（   ）。
+QUESTION_OPTION有关保障从业人员劳动安全事项
+QUESTION_OPTION防止职业危害事项
+QUESTION_OPTION依法为从业人员办理工伤保险的事项
+QUESTION_OPTION从业人员生活保障事项
+QUESTION_ORDER《安全生产法》规定，以下（   ）是从业人员的安全生产权利。
+QUESTION_OPTION有权了解其作业场所和工作岗位存在的危险因素、防范措施及事故应急措施
+QUESTION_OPTION有权对本单位安全生产工作中存在的问题提出批评、检举、控告
+QUESTION_OPTION有权拒绝违章指挥和强令冒险作业
+QUESTION_OPTION发现直接危及人身安全的紧急情况时，有权停止作业或者在采取可能的应急措施后撤离作业场所
+QUESTION_ORDER《安全生产法》规定，工会有（   ）安全生产权利。
+QUESTION_OPTION对生产经营单位违反安全生产法律、法规，侵犯从业人员合法权益的行为，有权要求纠正
+QUESTION_OPTION发现生产经营单位违章指挥、强令冒险作业或者发现事故隐患时，有权提出解决的建议，生产经营单位应当及时研究答复
+QUESTION_OPTION发现危及从业人员生命安全的情况时，有权向生产经营单位建议组织从业人员撤离危险场所，生产经营单位必须立即作出处理
+QUESTION_OPTION有权依法组织事故调查，向有关部门提出处理意见，并要求追究有关人员的责任
+QUESTION_ORDER生产经营单位对承包单位、承租单位的安全生产工作统一（    ），定期进行安全检查，发现安全问题的，应当及时督促整改。
+QUESTION_OPTION考核
+QUESTION_OPTION管理
+QUESTION_OPTION协调
+QUESTION_OPTION奖惩
+QUESTION_ORDER（   ）单位有进行安全生产公益宣传教育的义务。
+QUESTION_OPTION新闻
+QUESTION_OPTION出版
+QUESTION_OPTION广播
+QUESTION_OPTION电影和电视
+QUESTION_ORDER对违法行为情节严重的生产经营单位及其有关从业人员，应当及时向社会公告，并通报（   ）。
+QUESTION_OPTION投资主管部门
+QUESTION_OPTION行业主管部门
+QUESTION_OPTION自然资源主管部门、生态环境主管部门
+QUESTION_OPTION证券监督管理机构以及有关金融机构
+QUESTION_ORDER负有安全生产监督管理职责的部门依法对存在重大事故隐患的生产经营单位作出（   ）的决定，生产经营单位应当依法执行，及时消除事故隐患。
+QUESTION_OPTION停产停业
+QUESTION_OPTION停止施工
+QUESTION_OPTION停止上市
+QUESTION_OPTION停止使用相关设施或者设备
+QUESTION_ORDER应急管理部门和其他负有安全生产监督管理职责的部门有权对违法（   ）危险物品的作业场所予以查封，并依法作出处理决定。
+QUESTION_OPTION生产
+QUESTION_OPTION储存
+QUESTION_OPTION使用
+QUESTION_OPTION经营
+QUESTION_ORDER对企业存在事故隐患或者安全生产违法行为，（   ）有权向负有安全生产监督管理职责的部门报告或者举报。
+QUESTION_OPTION新闻工作者
+QUESTION_OPTION企业周边居民
+QUESTION_OPTION企业职工
+QUESTION_OPTION企业安全员
+QUESTION_ORDER危险物品，是指（   ）等能够危及人身安全和财产安全的物品。
+QUESTION_OPTION易燃易爆物品
+QUESTION_OPTION危险化学品
+QUESTION_OPTION放射性物品
+QUESTION_OPTION可燃物品
+QUESTION_ORDER重大危险源，是指长期地或者临时地(   )危险物品，且危险物品的数量等于或者超过临界量的单元（包括场所和设施）。
+QUESTION_OPTION生产
+QUESTION_OPTION搬运
+QUESTION_OPTION使用
+QUESTION_OPTION储存
+QUESTION_ORDER生产经营单位的主要负责人在本单位发生生产安全事故时，不立即组织抢救或者在事故调查处理期间擅离职守或者逃匿的，（   ）。
+QUESTION_OPTION给予降级、撤职的处分
+QUESTION_OPTION并由应急管理部门处上一年年收入百分之六十至百分之一百的罚款
+QUESTION_OPTION对逃匿的处十五日以下拘留
+QUESTION_OPTION构成犯罪的，依照刑法有关规定追究刑事责任
+QUESTION_ORDER生产经营单位不具备《安全生产法》和其他（   ）规定的安全生产条件，经停产停业整顿仍不具备安全生产条件的，予以关闭；有关部门应当依法吊销其有关证照。
+QUESTION_OPTION有关法律
+QUESTION_OPTION行政法规
+QUESTION_OPTION国家标准
+QUESTION_OPTION行业标准
+QUESTION_ORDER发生生产安全事故，对负有责任的生产经营单位除要求其依法承担相应的赔偿等责任外，由应急管理部门依照下列（   ）规定处以罚款。
+QUESTION_OPTION发生一般事故的，处三十万元以上一百万元以下的罚款
+QUESTION_OPTION发生较大事故的，处一百万元以上二百万元以下的罚款
+QUESTION_OPTION发生重大事故的，处二百万元以上一千万元以下的罚款
+QUESTION_OPTION发生特别重大事故的，处一千万元以上二千万元以下的罚款
+QUESTION_ORDER《安全生产法》规定，生产经营单位的主要负责人不依照《安全生产法》规定保证安全生产所必需的资金投入，致使生产经营单位不具备安全生产条件的，其处罚措施有(   )。
+QUESTION_OPTION责令限期改正，提供必需的资金
+QUESTION_OPTION逾期未改的，责令停产停业整顿
+QUESTION_OPTION导致发生生产安全事故，对主要负责人给予撤职处分
+QUESTION_OPTION构成犯罪的，依照刑法有关规定追究刑事责任
+QUESTION_ORDER矿山企业特种作业人员未按照规定经专门的安全作业培训并取得相应资格，上岗作业的，按照《安全生产法》，则(   )。
+QUESTION_OPTION责令限期改正，并处罚款
+QUESTION_OPTION逾期未改正的，责令停产停业整顿
+QUESTION_OPTION逾期未改正的，并处罚款
+QUESTION_OPTION逾期未改正的，对直接负责的主管人员和其他直接责任人员处罚款
+QUESTION_ORDER矿山、金属冶炼建设项目和用于生产、储存、装卸危险物品的建设项目的施工单位未按照规定对施工项目进行安全管理的，(   )。
+QUESTION_OPTION责令限期改正，处十万元以下的罚款
+QUESTION_OPTION对其直接负责的主管人员和其他直接责任人员处二万元以下的罚款
+QUESTION_OPTION逾期未改正的，责令停产停业整顿
+QUESTION_OPTION构成犯罪的，依照刑法有关规定追究刑事责任
+QUESTION_ORDER某企业与从业人员订立的协议中规定，“如因员工个人原因造成工伤事故，本厂不承担任何责任”，则(   )。
+QUESTION_OPTION协议无效
+QUESTION_OPTION责令停业整顿
+QUESTION_OPTION依法可对生产经营单位的主要负责人、个人经营的投资人处以罚款
+QUESTION_OPTION对生产经营单位的主要负责人给予刑事处分
+QUESTION_ORDER高危行业、领域的生产经营单位未按照国家规定投保安全生产责任保险的，(   )。
+QUESTION_OPTION责令限期改正
+QUESTION_OPTION处五万元以上十万元以下的罚款
+QUESTION_OPTION逾期未改正的，处十万元以上二十万元以下的罚款
+QUESTION_OPTION对直接负责的主管人员处一万元以下罚款
+QUESTION_ORDER生产经营单位应当具备（   ）规定的安全生产条件；不具备安全生产条件的，不得从事生产经营活动。
+QUESTION_OPTION《安全生产法》
+QUESTION_OPTION有关法律和行政法规
+QUESTION_OPTION国家标准
+QUESTION_OPTION行业标准
+QUESTION_ORDER生产经营单位应当具备的安全生产条件所必需的资金投入，由（   ）予以保证，并对由于安全生产所必需的资金投入不足导致的后果承担责任。
+QUESTION_OPTION生产经营单位的决策机构
+QUESTION_OPTION主要负责人
+QUESTION_OPTION个人经营的投资人
+QUESTION_OPTION财务经理
+QUESTION_ORDER生产经营单位的全员安全生产责任制应当明确各岗位的（   ）等内容。
+QUESTION_OPTION业绩目标
+QUESTION_OPTION责任人员
+QUESTION_OPTION责任范围
+QUESTION_OPTION考核标准
+QUESTION_ORDER《安全生产法》规定，生产经营单位应当建立安全生产教育和培训档案，如实记录安全生产教育和培训的（   ）等情况。
+QUESTION_OPTION时间
+QUESTION_OPTION内容
+QUESTION_OPTION参加人员
+QUESTION_OPTION考核结果
+QUESTION_ORDER生产经营单位（   ）工程项目（统称建设项目）的安全设施，必须与主体工程同时设计、同时施工、同时投入生产和使用。安全设施投资应当纳入建设项目概算。
+QUESTION_OPTION新建
+QUESTION_OPTION改建
+QUESTION_OPTION扩建
+QUESTION_OPTION拆除
+QUESTION_ORDER我国安全生产方针是（  ）。
+QUESTION_OPTION安全第一
+QUESTION_OPTION预防为主
+QUESTION_OPTION以人为本
+QUESTION_OPTION综合治理
+QUESTION_ORDER从业人员应当遵守安全生产的（ ）。
+QUESTION_OPTION法律
+QUESTION_OPTION法规
+QUESTION_OPTION规章制度
+QUESTION_OPTION操作规程
+QUESTION_ORDER生产经营单位与从业人员订立的劳动合同，应当载明（  ）。
+QUESTION_OPTION有关保障从业人员劳动安全事项
+QUESTION_OPTION依法为从业人员办理工伤社会保险的事项。
+QUESTION_OPTION防止职业危害的事项
+QUESTION_OPTION免除承担人身伤亡赔偿的责任
+QUESTION_ORDER《安全生产法》赋予从业人员的权利有（  ）。
+QUESTION_OPTION对本单位安全生产工作中存在的问题提出批评、检举、控告
+QUESTION_OPTION有权拒绝违章指挥
+QUESTION_OPTION有权拒绝强令冒险作业
+QUESTION_OPTION有权对本单位的安全生产工作提出建议
+QUESTION_ORDER《安全生产法》规定从业人员接受安全生产教育和培训的目的是（ ）
+QUESTION_OPTION掌握本职工作所需的安全生产知识，提高安全生产技能
+QUESTION_OPTION服从管理
+QUESTION_OPTION增强事故预防和应急处理能力
+QUESTION_OPTION寻找规避违法行为的方法
+QUESTION_ORDER从业人员发现直接危及人身安全的紧急情况停止作业后，生产经营单位（   ）。
+QUESTION_OPTION不得降低从业人员的工资、福利等待遇
+QUESTION_OPTION可以降低从业人员的工资、福利等待遇
+QUESTION_OPTION可以解除与从业人员订立的劳动合同
+QUESTION_OPTION不得解除与从业人员订立的劳动合同。
+QUESTION_ORDER火灾扑灭后，发生火灾的单位和相关人员应当按照公安机关消防机构的要求（  ）。
+QUESTION_OPTION保护现场
+QUESTION_OPTION如实提供与火灾有关的情况
+QUESTION_OPTION协助调查火灾原因
+QUESTION_OPTION接受事故调查
+QUESTION_ORDER劳动者有下列情形之一的，用人单位不得解除劳动合同（ ）
+QUESTION_OPTION患职业病或者因工负伤并被确认丧失或者部分丧失劳动能力的
+QUESTION_OPTION患病或者负伤，在规定的医疗期内的
+QUESTION_OPTION女职工在孕期、产期、哺乳期内的
+QUESTION_OPTION在试用期间被证明不符合录用条件的
+QUESTION_ORDER《职业病防治法》规定，劳动者可以在（ ）依法承担职业病诊断的医疗卫生机构进行职业病诊断。
+QUESTION_OPTION用人单位所在地
+QUESTION_OPTION本人户籍所在地
+QUESTION_OPTION本人经常居住地
+QUESTION_OPTION任何地方
+QUESTION_ORDER以下哪项是《精神卫生法》要求用人单位的行为是（ ）
+QUESTION_OPTION用人单位应当根据精神障碍患者的实际情况，安排患者从事力所能及的工作
+QUESTION_OPTION安排患者参加必要的职业技能培训，提高患者的就业能力
+QUESTION_OPTION患者的工作环境无需特殊化
+QUESTION_OPTION对患者在工作中取得的成绩予以鼓励。
+QUESTION_ORDER对安全生产有参与权和监督权的有（）。
+QUESTION_OPTION工会；
+QUESTION_OPTION共青团；
+QUESTION_OPTION妇联；
+QUESTION_OPTION企业职工。
+QUESTION_ORDER企业（  ）在遇到险情时第一时间可以下达停产撤人的命令。因撤离不及时导致人身伤亡事故的，要从重追究相关人员的法律责任。
+QUESTION_OPTION普通职工；
+QUESTION_OPTION生产现场带班人员；
+QUESTION_OPTION班组长；
+QUESTION_OPTION调度人员。
+QUESTION_ORDER高危行业，必须严格考核、持资格证上岗的人员是（）。
+QUESTION_OPTION企业主要负责人；
+QUESTION_OPTION安全管理人员：
+QUESTION_OPTION班组长：
+QUESTION_OPTION特种作业人员。
+QUESTION_ORDER构成一般事故的指标是（  ）。
+QUESTION_OPTION造成3人以下死亡；
+QUESTION_OPTION造成10人以下重伤；
+QUESTION_OPTION造成30人以下轻伤；
+QUESTION_OPTION造成1000万元以下直接经济损失。
+QUESTION_ORDER生产经营单位使用（ ）时，对有关从业人员应当重新进行有针对性的安全培训。
+QUESTION_OPTION新工艺；
+QUESTION_OPTION新技术；
+QUESTION_OPTION新设备；
+QUESTION_OPTION新材料。
+QUESTION_ORDER煤矿、非煤矿山、危险化学品、烟花爆竹等高危行业的生产经营单位必须对新上岗的（ ）等进行强制性安全培训，保证其具备本岗位安全操作、自救互救以及应急处置所需的知识和技能后，方能安排上岗作业。
+QUESTION_OPTION临时工；
+QUESTION_OPTION劳务工；
+QUESTION_OPTION轮换工；
+QUESTION_OPTION协议工。
+QUESTION_ORDER生产单位根据从业人员的工作性质，在上岗前必须经过（  ）安全培训教育，保证其具备本岗位安全操作、应急处置等知识和技能。
+QUESTION_OPTION安监局；
+QUESTION_OPTION厂（矿）；
+QUESTION_OPTION车间（工段、区、队）；
+QUESTION_OPTION班组。
+QUESTION_ORDER特种作业人员不得（）冒用特种作业操作证或者使用伪造的特种作业操作证。
+QUESTION_OPTION伪造；
+QUESTION_OPTION涂改；
+QUESTION_OPTION转借；
+QUESTION_OPTION转让。
+QUESTION_ORDER特种作业人员（ ）特种作业操作证的，给予警告，并处2000元以上10000元以下的罚款。
+QUESTION_OPTION转借；
+QUESTION_OPTION转让；
+QUESTION_OPTION冒用；
+QUESTION_OPTION倒卖。
+QUESTION_ORDER特种作业人员复审申请，需提交的材料有（  ）。
+QUESTION_OPTION个人申请书；
+QUESTION_OPTION社区或者县级以上医疗机构出具的健康证明；
+QUESTION_OPTION从事特种作业的情况；
+QUESTION_OPTION安全培训考试合格记录。
+QUESTION_ORDER负有安全生产监督管理职责部门的职权不包括（  ）。
+QUESTION_OPTION对事故隐患的处理权
+QUESTION_OPTION对安全生产违法行为的处理权
+QUESTION_OPTION对生产经营单位负责人的任免权
+QUESTION_OPTION制定生产经营单位的规章制度
+QUESTION_ORDER企业负责人在接到重大生产安全事故报告后，应当（  ）。
+QUESTION_OPTION立即赶到事故现场
+QUESTION_OPTION组织事故抢救
+QUESTION_OPTION立即展开事故调查
+QUESTION_OPTION立即通知相关人员当面汇报
+QUESTION_ORDER生产经营单位在发生重大生产事故时，单位主要负责人的职责是（  ）。
+QUESTION_OPTION不得在事故凋查处理期间擅离职守
+QUESTION_OPTION立即组织抢救
+QUESTION_OPTION及时准确上报
+QUESTION_OPTION立即做出事故处理结论
+QUESTION_ORDER生产经营单位不具备安全生产法和有关法律、行政法规和国家标准或者行业标准规定的安全生产条件，仍从事生产经营活动。生产经营单位因此而承担的法律责任是（   ）。
+QUESTION_OPTION限期改正
+QUESTION_OPTION逾期未改正的，停止建设或者停产停业整顿
+QUESTION_OPTION经停产停业整顿仍不具备，予以关闭，并同时由有关部门依法吊销有关证照
+QUESTION_OPTION撤销生产经营单位主要负责人的职务
+QUESTION_ORDER生产经营单位工会的职责（    ）。
+QUESTION_OPTION依法组织职工参加本单位安全生产工作的民主管理和民主监督
+QUESTION_OPTION维护职工在安全生产方面的合法权益。
+QUESTION_OPTION组织生产
+QUESTION_OPTION建立、健全本单位安全生产责任制
+QUESTION_ORDER生产经营单位的决策机构及其主要负责人、个人经营的投资人未能保证安全生产所必需的资金投人，使生产经营单位不具备安全生产条件，应该（   ）。
+QUESTION_OPTION提供必需的资金，并处罚金
+QUESTION_OPTION责令限期改正，逾期未改正的，责令停产停业整顿
+QUESTION_OPTION有违法行为，导致发生生产安全事故、构成犯罪的，依照刑法有关规定追究刑事责任；尚不构成刑事处罚的，对主要负责人给予撤职处分，对个人经营的投资人处罚款
+QUESTION_OPTION责令限期提供必需的资金
+QUESTION_ORDER坚持科学发展安全发展（  ）。
+QUESTION_OPTION是对新时期安全生产客观规律的科学认识和准确把握；
+QUESTION_OPTION是保障人民群众生命财产安全的必然选择；
+QUESTION_OPTION是解决安全生产问题的根本途径；
+QUESTION_OPTION是经济发展社会进步的必然要求。
+QUESTION_ORDER安全生产监督检查人员应当将检查的（    ）作出书面记录，并由检查人员和被检查单位的负责人签字。
+QUESTION_OPTION时间、地点、内容
+QUESTION_OPTION发现的问题及其处理情况
+QUESTION_OPTION现场人数
+QUESTION_OPTION周边环境
+QUESTION_ORDER从事安全评价、认证、检测检验工作的中介组织机构应该（   ）。
+QUESTION_OPTION接受有关生产经营单位或者负有安全生产监督管理职责的部门的委托
+QUESTION_OPTION接受负有安全生产监督管理职责的部门的监督
+QUESTION_OPTION对其做出的安全评价、认证、检测、检验的结果负责
+QUESTION_OPTION对其做出的安全评价、认证、检测、检验结果不负责
+QUESTION_ORDER两个以上生产经营单位在同一作业区域内进行生产经营活动，可能危及对方生产安全的，应当（    ）
+QUESTION_OPTION签订安全生产管理协议，明确各自的安全生产管理职责和应当采取的安全措施
+QUESTION_OPTION指定专职安全生产管理人员进行安全检查与协调
+QUESTION_OPTION签订安全生产职责分工协议
+QUESTION_OPTION签订安全生产责任制
+QUESTION_ORDER可以吊销矿山企业采矿许可证和营业执照的行为有（   ）。
+QUESTION_OPTION矿山建设工程安全设施的设计未经批准擅自施工
+QUESTION_OPTION拒绝矿山安全监督人员现场检查或者在被检查时隐瞒事故隐患、不如实反映情况
+QUESTION_OPTION已经投入生产的矿山企业，不具备安全生产条件而强行开采
+QUESTION_OPTION矿山建设工程安全设施未经验收或验收不合格擅自投入生产
+QUESTION_ORDER生产经营单位的应急救援体系是保证生产安全事故应急救援工作顺利实施的组织保障，主要包括(    )
+QUESTION_OPTION经费保障
+QUESTION_OPTION信息畅通
+QUESTION_OPTION应急救援指挥系统
+QUESTION_OPTION应急救援技术支持系统
+QUESTION_ORDER建筑构件和建筑材料的防火性能必须符合（    ）。
+QUESTION_OPTION国家标准
+QUESTION_OPTION地区标准
+QUESTION_OPTION行业标准
+QUESTION_OPTION国际标准
+QUESTION_ORDER储存易燃易爆危险物品的单位和个人应履行的消防职责是（  ）。
+QUESTION_OPTION禁止携带火种进入储存易燃易爆危险物品的场所
+QUESTION_OPTION产品附有燃点、闪点、爆炸极限等数据的说明书，注明防火防爆注意事项，独立包装的易燃易爆危险物品贴附危险品标签
+QUESTION_OPTION禁止非法携带易燃易爆危险物品进入公共场所或者乘坐公共交通工具
+QUESTION_OPTION储存可燃物资仓库的管理，必须执行国家有关消防安全的规定
+QUESTION_ORDER对安全生产违法行为实施行政处罚，遵循（   ）的原则。
+QUESTION_OPTION公平
+QUESTION_OPTION合理
+QUESTION_OPTION公正
+QUESTION_OPTION公开
+QUESTION_ORDER《行政处罚法》规定，当事人有下列（   ）情形之一的，应当依法从轻或者减轻行政处罚。
+QUESTION_OPTION受他人胁迫有违法行为的
+QUESTION_OPTION主动消除或者减轻违法行为危害后果的
+QUESTION_OPTION配合行政机关查处违法行为有立功表现的
+QUESTION_OPTION其他依法从轻或者减轻行政处罚的
+QUESTION_ORDER依据《行政处罚法》，行政处罚的管辖包括（   ）
+QUESTION_OPTION一般管辖
+QUESTION_OPTION特定管辖
+QUESTION_OPTION指定管辖
+QUESTION_OPTION移送管辖
+QUESTION_ORDER《职业病防治法》规定，职业病前期预防的具体规定有（    ）。
+QUESTION_OPTION关于产生职业病危害的用人单位的设立及对其工作场所职业卫生要求的规定
+QUESTION_OPTION关于职业病危害项目的申报制度的规定
+QUESTION_OPTION关于职业病危害预评价制度的规定
+QUESTION_OPTION关于建设项目职业病防护设施“三同时”制度的规定
+QUESTION_ORDER对劳动者进行职业病诊断时，应当综合分析下列（   ）因素。
+QUESTION_OPTION临床表现以及辅助检查结果
+QUESTION_OPTION病人的职业史
+QUESTION_OPTION职业病危害接触史
+QUESTION_OPTION病人的家族遗传病史
+QUESTION_ORDER职业病是指企业、事业单位和个体经济组织的劳动者在职业活动中，因接触（    ）等因素而引起的疾病。
+QUESTION_OPTION粉尘  
+QUESTION_OPTION噪声振动  
+QUESTION_OPTION放射性物质  
+QUESTION_OPTION其他有毒、有害物质
+QUESTION_ORDER火灾现场内的烟气有哪些危害性（   ）？
+QUESTION_OPTION毒性    
+QUESTION_OPTION高温    
+QUESTION_OPTION遮光    
+QUESTION_OPTION窒息性
+QUESTION_ORDER灭火的基本方法有哪些（   ）？
+QUESTION_OPTION冷却灭火法    
+QUESTION_OPTION隔离灭火法    
+QUESTION_OPTION窒息灭火法    
+QUESTION_OPTION抑制灭火法
+QUESTION_ORDER电器着火时，应选用（    ）进行扑救
+QUESTION_OPTION泡沫灭火器          
+QUESTION_OPTION干粉灭火器
+QUESTION_OPTION二氧化碳灭火器     
+QUESTION_OPTION水基灭火器
+QUESTION_ORDER煤气泄露的正确急救处理方法有（   ）。
+QUESTION_OPTION迅速打开家中所有的门窗，使空气流通，然后关煤气阀
+QUESTION_OPTION立即开灯照明
+QUESTION_OPTION通风后，打电话通知有关部门查找煤气泄漏的原因
+QUESTION_OPTION一旦发现中毒者，要立即将其搬离现场，避免再吸入一氧化碳
+QUESTION_ORDER燃烧按燃烧速度及现象的不同可分为（）阴燃、微燃和轰燃6种。
+QUESTION_OPTION爆炸    
+QUESTION_OPTION着火    
+QUESTION_OPTION自燃    
+QUESTION_OPTION闪燃
+QUESTION_ORDER高层建筑发生火灾时，不能（   ）
+QUESTION_OPTION乘电梯下去  
+QUESTION_OPTION用湿毛巾堵住口鼻   
+QUESTION_OPTION从楼梯跑下来   
+QUESTION_OPTION跳楼
+QUESTION_ORDER火灾事故的特点是（   ）。
+QUESTION_OPTION突发性    
+QUESTION_OPTION严重性    
+QUESTION_OPTION人为性    
+QUESTION_OPTION广泛性
+QUESTION_ORDER当你发现宿舍楼起火时，你已被火势围困，最恰当的处理方式是（  ）。
+QUESTION_OPTION站在窗口大声呼救，以吸引消防队员的注意
+QUESTION_OPTION退回室内，用棉布等封堵门窗，不断泼水降温，防止烟窜入
+QUESTION_OPTION躲在床底、衣柜等处
+QUESTION_OPTION强行冲出去
+QUESTION_ORDER《中华人民共和国消防法》规定：任何单位、个人都有（   ）的义务。
+QUESTION_OPTION维护消防安全    
+QUESTION_OPTION保护消防设施    
+QUESTION_OPTION预防火灾    
+QUESTION_OPTION报告火警
+QUESTION_ORDER宿舍内严禁存放易燃易爆物品，以下哪些属于易燃易爆物品(  )？
+QUESTION_OPTION大量的打火机    
+QUESTION_OPTION烟花爆竹    
+QUESTION_OPTION甲烷    
+QUESTION_OPTION酒精、汽油
+QUESTION_ORDER以下哪些行为易引起火灾？(    )
+QUESTION_OPTION台灯靠近枕头和被褥    
+QUESTION_OPTION躺在床上吸烟
+QUESTION_OPTION在蚊帐内点蜡烛看书    
+QUESTION_OPTION焚烧杂物
+QUESTION_ORDER预防学生宿舍火灾，应做到以下哪几条？(    )
+QUESTION_OPTION不在宿舍使用“热得快”
+QUESTION_OPTION不在宿舍使用酒精炉
+QUESTION_OPTION不在宿舍抽烟
+QUESTION_OPTION离开宿舍时拔下电源插头
+QUESTION_ORDER报火警时，应注意以下哪几条？(    )
+QUESTION_OPTION讲清着火的单位或地点    
+QUESTION_OPTION讲清火险所处楼层
+QUESTION_OPTION尽可能讲清着火物质      
+QUESTION_OPTION讲清报警人的姓名和电话
+QUESTION_ORDER遭遇火险正确脱险方法有下面哪几条？(   )
+QUESTION_OPTION用湿毛巾掩住口鼻，从安全通道匍匐前进
+QUESTION_OPTION披上浸湿的衣物，向安全出口方向逃生
+QUESTION_OPTION用床单、衣服等自制简易救生绳从楼上小心滑下
+QUESTION_OPTION身上着火，可就地打滚或用厚重的衣物压灭火苗
+QUESTION_ORDER使用灭火器时，应注意以下哪几点？( )
+QUESTION_OPTION站在上风方向灭火      
+QUESTION_OPTION站在下风方向灭火
+QUESTION_OPTION对准燃烧点根部喷射    
+QUESTION_OPTION对准燃烧点上部喷射
+QUESTION_ORDER使用ABC型干粉灭火器可以扑灭以下哪几类火灾？(    )
+QUESTION_OPTION含碳固体火灾    
+QUESTION_OPTION可燃液体火灾
+QUESTION_OPTION可燃气体火灾    
+QUESTION_OPTION金属火灾
+QUESTION_ORDER电褥子是用电热线和普通棉纺织布做成的，如果使用不当很容易发生火灾，使用中应注意以下哪几个环节？(    )
+QUESTION_OPTION不可长期通电使用    
+QUESTION_OPTION不可折叠使用
+QUESTION_OPTION不可用水洗          
+QUESTION_OPTION不可在弹性和伸缩性较大的床上使用
+QUESTION_ORDER发生火灾时，正确应变措施是？（   ）
+QUESTION_OPTION发出警报    
+QUESTION_OPTION疏散    
+QUESTION_OPTION安全情况下设法扑救
+QUESTION_ORDER火灾发生后，如果逃生之路已被切断，应(  )。
+QUESTION_OPTION退回室内，关闭通往燃烧房间的门窗    
+QUESTION_OPTION向门窗上泼水
+QUESTION_OPTION打开未受烟火威胁的窗户              
+QUESTION_OPTION发出求救信号
+QUESTION_ORDER预防火灾的基本方法和手段(  )。
+QUESTION_OPTION有效地管理好可燃物    
+QUESTION_OPTION控制火源
+QUESTION_OPTION避免火源、可燃物、助燃物三者间的相互作用
+QUESTION_ORDER“严禁烟火”的标志通常出现在哪些地方？(   )
+QUESTION_OPTION火灾危险性大的部位
+QUESTION_OPTION防火重点部位
+QUESTION_OPTION物资集中，易发生火灾损失大的地方
+QUESTION_OPTION人员集中，易发生火灾伤亡大的场所
+QUESTION_ORDER在防火重点部位，我们应注意(   )。
+QUESTION_OPTION不在这些场所吸烟和随意使用明火
+QUESTION_OPTION不将易燃易爆物品带入防火重点部位
+QUESTION_OPTION严格遵守各种安全标志、消防标志的要求
+QUESTION_OPTION劝阻违章人员、制止违章行为
+QUESTION_ORDER干粉火火器主要用于扑救哪类火灾（   ）。
+QUESTION_OPTION石油及其产品    
+QUESTION_OPTION可燃气体    
+QUESTION_OPTION含碳物质可燃物    
+QUESTION_OPTION精密仪器
+QUESTION_ORDER下列物质燃烧时，容易产生黑烟的有（  ）。
+QUESTION_OPTION一氧化碳    
+QUESTION_OPTION石油产品    
+QUESTION_OPTION氢气    
+QUESTION_OPTION橡胶
+QUESTION_ORDER如果因电器引起火灾，应怎样做？(    )
+QUESTION_OPTION用二氧化碳或水基灭火器灭火    
+QUESTION_OPTION用水灭火
+QUESTION_OPTION切断电源                     
+QUESTION_OPTION用沙土灭火
+QUESTION_ORDER火场逃生时，正确的做法是（   ）。
+QUESTION_OPTION防烟熏     
+QUESTION_OPTION果断迅速逃离火场     
+QUESTION_OPTION寻找逃生之路     
+QUESTION_OPTION等待他救
+QUESTION_ORDER火灾致人死亡的主要原因有（  ）。
+QUESTION_OPTION有毒气体中毒    
+QUESTION_OPTION缺氧导致死亡
+QUESTION_OPTION烧伤致死        
+QUESTION_OPTION吸入热气引起肺水肿而窒息死亡
+QUESTION_ORDER安装电灯应注意什么？（    ）
+QUESTION_OPTION电灯泡与可燃物要保持一定的安全距离
+QUESTION_OPTION严禁用纸、布做灯罩或包灯泡
+QUESTION_OPTION日光灯等灯具的镇流器可装在可燃物或天棚内
+QUESTION_OPTION在易燃易爆场所应安装防爆灯
+QUESTION_ORDER下列吸烟行为在哪些情况下容易引起火灾？(    )
+QUESTION_OPTION躺在床上或沙发上吸烟，特别是醉酒或过度疲劳后
+QUESTION_OPTION随手乱放点着的香烟
+QUESTION_OPTION随手丢烟头，火柴梗
+QUESTION_OPTION在严禁烟火的地方吸烟
+QUESTION_ORDER火灾的发展过程可分为（    ）。
+QUESTION_OPTION阴燃阶段    
+QUESTION_OPTION初起阶段    
+QUESTION_OPTION发展阶段
+QUESTION_OPTION猛烈阶段    
+QUESTION_OPTION下降阶段    
+QUESTION_OPTION熄灭阶段
+QUESTION_ORDER物质发生燃烧所需的必要条件：（   ）。
+QUESTION_OPTION可燃物    
+QUESTION_OPTION湿度    
+QUESTION_OPTION温度（点火源）    
+QUESTION_OPTION助燃物
+QUESTION_ORDER热传播的途径有（    ）。
+QUESTION_OPTION热传导    
+QUESTION_OPTION热感应    
+QUESTION_OPTION热对流    
+QUESTION_OPTION热辐射
+QUESTION_ORDER造成电气火灾的原因可能有（  ）。
+QUESTION_OPTION短路    
+QUESTION_OPTION超负荷    
+QUESTION_OPTION电热器具使用不当    
+QUESTION_OPTION漏电
+QUESTION_ORDER某学校的一名职工拨打119谎称办公楼起火，按照《消防法》规定谎报火警可以给予（  ）行政处罚。
+QUESTION_OPTION处五日以上十日以下拘留，可以并处五百元以下罚款
+QUESTION_OPTION情节较轻的，处五日以下拘留或者五百元以下罚款
+QUESTION_OPTION处十日以上十五日以下拘留
+QUESTION_OPTION处一千元以下罚款
+QUESTION_ORDER如果睡觉时被火场中烟气呛醒，在条件允许的情况下，正确的做法是（  ）。
+QUESTION_OPTION迅速将门窗打开
+QUESTION_OPTION在逃出门之前将着火房间的门窗关好
+QUESTION_OPTION将毛巾淋湿后捂住口鼻，迅速弯腰低姿跑到安全区域
+QUESTION_OPTION躲在床底下，等待消防队前来救援
+QUESTION_ORDER电褥子是用电热线和普通棉纺织布做成的，如使用不当很容易发生火灾，以下哪些是正确的做法？（  ）
+QUESTION_OPTION可长期通电使用    
+QUESTION_OPTION可折叠使用
+QUESTION_OPTION不可用水洗       
+QUESTION_OPTION不能在弹性和伸缩性较大的床上使用
+QUESTION_ORDER用手提式灭火器灭火的正确方法是（    ）。
+QUESTION_OPTION拔去保险插销              
+QUESTION_OPTION一手紧握灭火器喷嘴
+QUESTION_OPTION一手提灭火器并下压压把    
+QUESTION_OPTION对准火焰根部喷射
+QUESTION_ORDER公共汽车上发生火灾时应如何逃生，正确的做法有（  ）。
+QUESTION_OPTION立即让司机停车              
+QUESTION_OPTION打开车门有秩序地下车
+QUESTION_OPTION推挤着下车，自己逃命重要    
+QUESTION_OPTION紧急情况下，可在车停稳后从车窗逃生
+QUESTION_ORDER水的灭火作用有（    ）。
+QUESTION_OPTION窒息灭火作用
+QUESTION_OPTION防止可燃物本身和附近可燃物的蒸发
+QUESTION_OPTION冷却作用
+QUESTION_OPTION泡沫受热蒸发产生的水蒸气可降低燃烧物质附近的氧气浓度
+QUESTION_ORDER校园内引发火灾的原因主要有（   ）。
+QUESTION_OPTION用火不慎    
+QUESTION_OPTION抽烟    
+QUESTION_OPTION用电不当    
+QUESTION_OPTION违反安全操作规定
+QUESTION_ORDER《消防法》规定，任何单位、个人不得(   )。
+QUESTION_OPTION损坏或擅自挪用消防设施、器材    
+QUESTION_OPTION埋压、圈占消火栓
+QUESTION_OPTION占用防火间距    
+QUESTION_OPTION购买消防器材    E.堵塞消防通道
+QUESTION_ORDER发生火灾后，应及时、准确地报告火警，报告火警时，应讲清(   )等，并说出起火部位及附近有无明显的标志，然后派人到路口迎候消防车。
+QUESTION_OPTION起火单位的名称、地址          
+QUESTION_OPTION燃烧物性质、火势情况
+QUESTION_OPTION有无被困人员、有无爆炸和毒气泄漏    
+QUESTION_OPTION报警人的姓名、电话号码
+QUESTION_ORDER水是最好用的灭火剂，常见的火灾都可以用水扑救。但以下哪些特殊火灾不能用水扑灭？（  ）
+QUESTION_OPTION带电设备火灾    
+QUESTION_OPTION油类火灾    
+QUESTION_OPTION特殊的化学品火灾   
+QUESTION_OPTION木材火灾
+QUESTION_ORDER在火场逃生过程中，（  ）。
+QUESTION_OPTION可以用折叠多层的湿毛巾.口罩捂住口鼻
+QUESTION_OPTION可用浸湿的棉被、棉大衣等披在身上
+QUESTION_OPTION尽量将身体贴近地面匍匐（或弯腰低姿）前进
+QUESTION_OPTION跟随人群跑
+QUESTION_ORDER下列哪些属于学生宿舍防火十戒内容？（    ）
+QUESTION_OPTION戒使用电热器具            
+QUESTION_OPTION戒使用电器无人看管
+QUESTION_OPTION戒室内存放易燃易爆物品    
+QUESTION_OPTION戒使用假、冒、伪、劣及不合格产品
+QUESTION_ORDER为了确保消防安全，以下哪些场所禁止吸烟？（   ）
+QUESTION_OPTION商市场、影剧院等人员密集场所    
+QUESTION_OPTION公共交通工具
+QUESTION_OPTION加油站                          
+QUESTION_OPTION公园
+QUESTION_ORDER家庭宜配备以下哪些消防器材？（  ）
+QUESTION_OPTION手提式灭火器                
+QUESTION_OPTION救生缓降器或逃生绳
+QUESTION_OPTION强光手电筒、简易防烟面罩    
+QUESTION_OPTION消防水枪、水带
+QUESTION_ORDER下列哪些行为是消防违法行为？（   ）
+QUESTION_OPTION占用、堵塞、封闭消防安全出口、疏散通道和消防车通道
+QUESTION_OPTION圈占、埋压、损坏、挪用、遮挡消防设施和器材
+QUESTION_OPTION损坏公共消防设施
+QUESTION_OPTION无照经营
+QUESTION_ORDER用电时要注意防火安全。下面哪些说法是正确的？（    ）
+QUESTION_OPTION不乱接乱拉电线，不超负荷用电
+QUESTION_OPTION及时更换老化电器设施和线路
+QUESTION_OPTION外出时要关闭电源开关
+QUESTION_OPTION尽量减少电灯的开关次数
+QUESTION_ORDER下列哪些选项是家庭应该采取的消防安全措施？（    ）
+QUESTION_OPTION配备必要的消防器材并掌握正确的使用方法
+QUESTION_OPTION制定家庭健身计划
+QUESTION_OPTION绘制家庭逃生疏散路线
+QUESTION_OPTION经常检查和消除家庭火灾隐患
+QUESTION_ORDER外面着火且火势很大，被困室内无法逃生时，以下哪些做法是正确的？（）
+QUESTION_OPTION可用浸湿的毛巾、衣物等堵塞门缝，防止毒烟进入
+QUESTION_OPTION把水泼在门上降温
+QUESTION_OPTION发出求救信号，等待救援
+QUESTION_OPTION打开房门冲出去
+QUESTION_ORDER下列哪些场所禁止燃放烟花爆竹？（  ）
+QUESTION_OPTION房屋的屋顶、阳台、窗口
+QUESTION_OPTION在室外空旷的地点等指定区域
+QUESTION_OPTION商市场、宾馆、影剧院、歌舞厅等人员密集场所
+QUESTION_OPTION有外墙保温材料的高层建筑附近
+QUESTION_ORDER对于消防器材和设施，我们应该（）。
+QUESTION_OPTION火灾很少发生，消防设施一般很少用到，在周围可以堆放物品
+QUESTION_OPTION不埋压、圈占、遮挡消防器材设施
+QUESTION_OPTION定期维护和保养
+QUESTION_OPTION不挪作它用
+QUESTION_ORDER下列哪些物品是不允许在公共交通工具上携带的易燃易爆危险品？（）
+QUESTION_OPTION蒸馏水    
+QUESTION_OPTION汽油、煤油    
+QUESTION_OPTION酒精、油漆    
+QUESTION_OPTION炸药、雷管
+QUESTION_ORDER报警人或知情人应协助消防人员开展以下哪些工作？（   ）
+QUESTION_OPTION引导消防车辆、人员到达火灾现场
+QUESTION_OPTION介绍起火位置（建筑）的有关情况和有无人员被困
+QUESTION_OPTION介绍周边可利用的消防水源
+QUESTION_OPTION与消防员一起进入火场灭火救人
+QUESTION_ORDER进入公共场所，应注意观察哪些部位，以便于发生火灾时能够紧急逃生（ ）。
+QUESTION_OPTION进出口位置    
+QUESTION_OPTION安全出口    
+QUESTION_OPTION疏散楼梯    
+QUESTION_OPTION电梯
+QUESTION_ORDER家中使用电暖器等大功率电器时，以下哪些做法是错误的？（    ）
+QUESTION_OPTION靠近床铺，这样可以保证有效取暖
+QUESTION_OPTION距离床铺、窗帘、沙发等可燃物要保持一米以上
+QUESTION_OPTION把衣物直接放在电暖器上烘烤
+QUESTION_OPTION为保持室内温度，出门时开着电暖器
+QUESTION_ORDER加油站是易燃易爆危险场所，以下哪些做法是错误的（    ）。
+QUESTION_OPTION在加油站吸烟、打手机
+QUESTION_OPTION机动车在没有熄火的情况下进行加油
+QUESTION_OPTION加油站内动用明火要严格执行相关管理规定
+QUESTION_ORDER以下哪些项属于高层建筑火灾的特点（   ）。
+QUESTION_OPTION火势蔓延快，电梯井、管道井容易形成“烟囱效应”
+QUESTION_OPTION高层建筑比较高，发生火灾后人员疏散困难，易造成人员伤亡
+QUESTION_OPTION建筑内易燃、可燃材料多，着火后燃烧猛烈，易造成人员中毒死亡
+QUESTION_OPTION容易引发爆炸事故
+QUESTION_ORDER发生火灾时，错误的做法是（  ）。
+QUESTION_OPTION赶紧收拾值钱的东西，尽量带走，减少损失
+QUESTION_OPTION不贪恋财物，立即逃生，并迅速报火警
+QUESTION_OPTION坚守灭火，不逃生
+QUESTION_ORDER面对火灾，以下哪些逃生方法是正确的？（ ）
+QUESTION_OPTION选择逃生通道自救    
+QUESTION_OPTION结绳下滑自救
+QUESTION_OPTION向外界求救          
+QUESTION_OPTION乘坐电梯逃生
+QUESTION_ORDER面对火灾，哪些是正确的选择？（  ）
+QUESTION_OPTION不乘普通电梯    
+QUESTION_OPTION不轻易跳楼    
+QUESTION_OPTION不贪恋财物    
+QUESTION_OPTION不迅速报警
+QUESTION_ORDER发生火灾后沿疏散通道逃生时，以下哪些做法是错误的？（  ）
+QUESTION_OPTION沿疏散通道右侧有序快走    
+QUESTION_OPTION沿疏散通道猛跑    
+QUESTION_OPTION疏散时大声喊叫
+QUESTION_ORDER油锅着火后，最简单的灭火方法是（   ）。
+QUESTION_OPTION用水浇    
+QUESTION_OPTION把切好的蔬菜倒入锅中    
+QUESTION_OPTION直接盖锅盖    
+QUESTION_OPTION关掉煤气
+QUESTION_ORDER身上着火怎么办？（  ）
+QUESTION_OPTION就地打滚                        
+QUESTION_OPTION尽快撕脱衣服
+QUESTION_OPTION向身上泼水或用厚棉衣往身上盖    
+QUESTION_OPTION迎风快跑
+QUESTION_ORDER以下行为是用电不当引起火灾的有？（  ）
+QUESTION_OPTION用纸、布等可燃物做灯罩    
+QUESTION_OPTION电熨斗使用后直接放在木地板上
+QUESTION_OPTION看完电视后未关闭电源      
+QUESTION_OPTION电器旁边堆放杂物
+QUESTION_ORDER（    ）火灾属于B类火灾。
+QUESTION_OPTION汽油    
+QUESTION_OPTION木材    
+QUESTION_OPTION天然气    
+QUESTION_OPTION石蜡    
+QUESTION_OPTION乙醇
+QUESTION_ORDER高层学生宿舍火灾有以下哪几个特点？（    ）
+QUESTION_OPTION火势蔓延快                
+QUESTION_OPTION学生数量大，疏散用时长
+QUESTION_OPTION楼层较高的被困学生逃生困难    
+QUESTION_OPTION消防灭火困难
+QUESTION_ORDER火场中逃生时不正确的方法是(   )。
+QUESTION_OPTION在平房内关闭门窗，隔断火路，等待救援
+QUESTION_OPTION使用电梯快速脱离火场
+QUESTION_OPTION利用绳索等，顺绳索滑落到地面
+QUESTION_OPTION必须跳楼时要尽量缩小高度，做到双脚先落地
+QUESTION_ORDER燃烧按点燃方式的不同可分为（    ）。
+QUESTION_OPTION引燃    
+QUESTION_OPTION微燃    
+QUESTION_OPTION自燃    
+QUESTION_OPTION轰燃
+QUESTION_ORDER火灾按一次火灾所造成的人员伤亡、受灾户数和财物损失金额大小，可分为4类，其中（  ）属于重大火灾
+QUESTION_OPTION造成22人死亡    
+QUESTION_OPTION造成33人死亡
+QUESTION_OPTION造成48人重伤    
+QUESTION_OPTION造成88人重伤
+QUESTION_ORDER《消防法》规定，有指使或者强令他人违反消防安全规定，冒险作业行为的，可以处（    ）
+QUESTION_OPTION警告　                       
+QUESTION_OPTION500元以下罚款
+QUESTION_OPTION500元以上1000元以下罚款    
+QUESTION_OPTION十日以上十五日以下拘留
+QUESTION_ORDER《消防法》规定,有过失引起火灾行为的，可以处（   ）
+QUESTION_OPTION警告　                       
+QUESTION_OPTION500元以下罚款
+QUESTION_OPTION500元以上1000元以下罚款    
+QUESTION_OPTION十日以上十五日以下拘留
+QUESTION_ORDER扑灭烟灰缸里的杂物、废纸篓里的废纸片等初起小火时，正确的做法是（   ）
+QUESTION_OPTION用手拍灭    
+QUESTION_OPTION用水或灭火器扑灭    
+QUESTION_OPTION用湿毛巾覆盖
+QUESTION_ORDER下列属于着火源的是（    ）。
+QUESTION_OPTION明火    
+QUESTION_OPTION电火花    
+QUESTION_OPTION热辐射作用    
+QUESTION_OPTION雷电火
+QUESTION_ORDER物质在燃烧时生成的气体、蒸气和固体等物质称为燃烧产物，下列属于燃烧产物的是（   ）。
+QUESTION_OPTION一氧化碳    
+QUESTION_OPTION二氧化碳    
+QUESTION_OPTION氢气    
+QUESTION_OPTION高温
+QUESTION_ORDER预防火灾的基本措施有（    ）。
+QUESTION_OPTION控制和消除点火源         
+QUESTION_OPTION控制和消除可燃物
+QUESTION_OPTION控制和消除氧化性物质    
+QUESTION_OPTION早发现、早控制、早消灭，防止蔓延扩大
+QUESTION_ORDER燃烧是可燃物与氧化剂作用发生的放热反应，通常伴有（    ）的现象。
+QUESTION_OPTION火焰    
+QUESTION_OPTION发光    
+QUESTION_OPTION发声    
+QUESTION_OPTION发烟
+QUESTION_ORDER下列哪两种物质混合见光即发生爆炸？（ ）
+QUESTION_OPTION氢气    
+QUESTION_OPTION氧气    
+QUESTION_OPTION氮气    
+QUESTION_OPTION氯气
+QUESTION_ORDER火灾是指在（   ）上失去控制的燃烧所造成的灾害。
+QUESTION_OPTION时间    
+QUESTION_OPTION地点    
+QUESTION_OPTION空间    
+QUESTION_OPTION可燃物
+QUESTION_ORDER按一次火灾所造成的人员伤亡、受灾户数和财物损失金额大小，可分为4类，其中（  ）属于特别重大火灾。
+QUESTION_OPTION造成29人死亡
+QUESTION_OPTION造成35人死亡
+QUESTION_OPTION造成95人重伤
+QUESTION_OPTION造成105人 重伤
+QUESTION_OPTION造成0.9亿元直接财产损失
+QUESTION_OPTION造成1.1亿元直接财产损失
+QUESTION_ORDER根据《消防法》规定，个人有下列条款行为之一的，处警告或者500元以下罚款。（     ）
+QUESTION_OPTION损坏、挪用或者擅自拆除、停用消防设施、器材的
+QUESTION_OPTION人员密集场所在门窗上设置影响逃生和灭火救援的障碍物的
+QUESTION_OPTION对火灾隐患经公安机关消防机构通知后不及时采取措施消除的
+QUESTION_OPTION埋压、圈占、遮挡消火栓或者占用防火间距的
+QUESTION_ORDER用水进行灭火时，主要依靠（    ）原理来进行灭火。
+QUESTION_OPTION冷却    
+QUESTION_OPTION隔离    
+QUESTION_OPTION窒息    
+QUESTION_OPTION稀释
+QUESTION_ORDER火灾按一次火灾所造成的人员伤亡、受灾户数和财物损失金额大小，可分为4类，其中（    ）属于较大火灾。
+QUESTION_OPTION造成2人死亡
+QUESTION_OPTION造成9人死亡
+QUESTION_OPTION造成9人重伤
+QUESTION_OPTION造成11人 重伤
+QUESTION_OPTION造成900万元直接财产损失
+QUESTION_OPTION造成4000万元直接财产损失
+QUESTION_ORDER火灾按一次火灾所造成的人员伤亡、受灾户数和财物损失金额大小，可分为4类，其中（   ）属于一般火灾。
+QUESTION_OPTION造成2人死亡
+QUESTION_OPTION造成9人死亡
+QUESTION_OPTION造成9人重伤
+QUESTION_OPTION造成11人 重伤
+QUESTION_OPTION造成900万元直接财产损失
+QUESTION_OPTION造成4000万元直接财产损失
+QUESTION_ORDER学校公共场合最常用的灭火器有(    )。
+QUESTION_OPTION干粉ABC        
+QUESTION_OPTION二氧化碳
+QUESTION_OPTIONBC灭火器       
+QUESTION_OPTION泡沫灭火器
+QUESTION_ORDER高层楼上发生火灾时，我们不应该（   ）。
+QUESTION_OPTION乘坐电梯         
+QUESTION_OPTION从楼梯逃生
+QUESTION_OPTION从窗户跳出       
+QUESTION_OPTION到窗户呼救
+QUESTION_ORDER高层建筑火灾的特点是(  )。
+QUESTION_OPTION蔓延快       
+QUESTION_OPTION逃生困难
+QUESTION_OPTION扑救困难     
+QUESTION_OPTION容易灭火
+QUESTION_ORDER防止火灾的基本方法和手段有哪些?( )
+QUESTION_OPTION有效地管理好可燃物
+QUESTION_OPTION控制火源
+QUESTION_OPTION避免火源、可燃物、助燃物三者间的相互作用
+QUESTION_ORDER吸烟在哪些情况下容易引起火灾?()
+QUESTION_OPTION躺在床上或沙发上吸烟，特别是醉酒或过度疲劳后
+QUESTION_OPTION随手乱放点着的香烟
+QUESTION_OPTION随手丢烟头，火柴梗
+QUESTION_OPTION在严禁烟火的地方吸烟
+QUESTION_ORDER认真执行《电力安全工作规程》是为了保证（）安全。
+QUESTION_OPTION人身
+QUESTION_OPTION设备
+QUESTION_OPTION电网
+QUESTION_OPTION国有资产
+QUESTION_ORDER《电力安全工作规程》是依据国家有关（），结合电力生产的实际制定的。
+QUESTION_OPTION标准
+QUESTION_OPTION通知
+QUESTION_OPTION法律
+QUESTION_OPTION法规
+QUESTION_ORDER（）宜配备急救箱，存放急救用品，并应指定专人经常检查、补充或更换。
+QUESTION_OPTION高压配电室
+QUESTION_OPTION经常有人工作的场所
+QUESTION_OPTION车间（工区）
+QUESTION_OPTION施工车辆上
+QUESTION_ORDER作业人员的基本条件之一：具备必要的（），且按工作性质，熟悉《安规》的相关部分，并经考试合格。
+QUESTION_OPTION学历
+QUESTION_OPTION电气知识
+QUESTION_OPTION特长
+QUESTION_OPTION业务技能
+QUESTION_ORDER作业人员的基本条件之一：具备必要的电气知识和业务技能，且（）。
+QUESTION_OPTION全面掌握安全规程
+QUESTION_OPTION有一定的组织能力
+QUESTION_OPTION按工作性质，熟悉《安规》的相关部分
+QUESTION_OPTION经《安规》考试合格
+QUESTION_ORDER参与公司系统电气工作的外单位工作人员，工作前，设备运行管理单位应告知：（）
+QUESTION_OPTION现场电气设备接线情况
+QUESTION_OPTION危险点
+QUESTION_OPTION安全注意事项
+QUESTION_OPTION作业时间
+QUESTION_ORDER电气设备按其电压高低分为哪两种：（）
+QUESTION_OPTION低压电气设备
+QUESTION_OPTION中压电气设备
+QUESTION_OPTION高压电气设备
+QUESTION_OPTION超高压电气设备
+QUESTION_ORDER在下列运用中的电气设备上工作的人员都必须遵守《安规》（）。
+QUESTION_OPTION发、输、变、配电
+QUESTION_OPTION用户
+QUESTION_OPTION基建安装
+QUESTION_OPTION农电人员
+QUESTION_ORDER运用中的电气设备是指（）的电气设备：
+QUESTION_OPTION全部带有电压
+QUESTION_OPTION一部分带有电压
+QUESTION_OPTION一经操作即带有电压
+QUESTION_OPTION正在安装E、检修中
+QUESTION_ORDER35kV设备工作人员与带电设备距离为（）m时，设备必须停电。
+QUESTION_OPTION0.8
+QUESTION_OPTION0.9
+QUESTION_OPTION1.1
+QUESTION_OPTION1.2
+QUESTION_ORDER不论高压设备带电与否，工作人员需要移开或越过遮栏进行工作时，必须（）。
+QUESTION_OPTION有监护人在场
+QUESTION_OPTION有三人以上在场
+QUESTION_OPTION经站长同意
+QUESTION_OPTION符合设备不停电的安全距离
+QUESTION_ORDER35kV配电装置的裸露部分在跨越人行过道或作业区时，若导电部分对地高度为（）时，该裸露部分两侧和底部须装设护网。
+QUESTION_OPTION2.7m
+QUESTION_OPTION2.8m
+QUESTION_OPTION2.9m
+QUESTION_OPTION3.0m
+QUESTION_ORDER10kV配电装置的裸露部分在跨越人行过道或作业区时，若导电部分对地高度为（）m，该裸露部分两侧和底部不需要装设护网。
+QUESTION_OPTION2.5
+QUESTION_OPTION2.6
+QUESTION_OPTION2.7
+QUESTION_OPTION2.8
+QUESTION_ORDER室内设备哪些部位应设有明显标志的永久性隔离挡板（护网）？（）
+QUESTION_OPTION母线分段部分
+QUESTION_OPTION母线接头部分
+QUESTION_OPTION母线交叉部分
+QUESTION_OPTION部分停电检修易误碰有电设备的部分
+QUESTION_ORDER待用间隔是指：（）
+QUESTION_OPTION设备损坏等待修理的间隔
+QUESTION_OPTION引线已接上母线的备用间隔
+QUESTION_OPTION母线连接排已接上母线的备用间隔
+QUESTION_OPTION正在扩建施工的间隔
+QUESTION_ORDER封闭式组合电器的（）应用专用器具封闭。
+QUESTION_OPTION引出电缆备用孔
+QUESTION_OPTION引出电缆孔
+QUESTION_OPTION母线的终端备用孔
+QUESTION_ORDER经本单位批准允许单独巡视高压设备的人员巡视高压设备时，不得进行其他工作，不得（）遮栏。
+QUESTION_OPTION靠近
+QUESTION_OPTION触及
+QUESTION_OPTION移开
+QUESTION_OPTION越过
+QUESTION_ORDER单独巡视高压设备的人员巡视设备时不得（）。
+QUESTION_OPTION移开遮栏
+QUESTION_OPTION进行其他工作
+QUESTION_OPTION用手机打电话
+QUESTION_OPTION做记录
+QUESTION_OPTION越过遮栏
+QUESTION_ORDER雷雨天气，需要巡视室外高压设备时，应穿绝缘靴，并不得靠近（）。
+QUESTION_OPTION避雷器
+QUESTION_OPTION互感器
+QUESTION_OPTION避雷针
+QUESTION_OPTION构架
+QUESTION_ORDER高压设备发生接地故障，工作人员接触故障设备进行检查时，应（）
+QUESTION_OPTION由值班负责人带领
+QUESTION_OPTION穿绝缘靴
+QUESTION_OPTION戴绝缘手套
+QUESTION_OPTION进行验电
+QUESTION_ORDER经批准有权巡视高压设备的人员可以借用高压室的钥匙，但应（）。
+QUESTION_OPTION登记
+QUESTION_OPTION签名
+QUESTION_OPTION开门以后立即归还
+QUESTION_OPTION巡视结束后交还。
+QUESTION_ORDER电气设备停电后（包括事故停电），在未拉开有关刀闸或做好安全措施前，不得（），以防突然来电。
+QUESTION_OPTION进入现场
+QUESTION_OPTION触及设备
+QUESTION_OPTION进入遮栏
+QUESTION_OPTION验电挂地线
+QUESTION_ORDER部分停电的工作，系指：（）
+QUESTION_OPTION高压设备部分停电
+QUESTION_OPTION室内设备已停电，但电缆引入线仍带电
+QUESTION_OPTION室内设备虽全部停电，而通至邻接高压室的门并未闭锁。
+QUESTION_OPTION许可在带电设备外壳上进行的工作
+QUESTION_ORDER在高压设备上工作，应至少由两人进行，并完成保证安全的（）。
+QUESTION_OPTION组织措施
+QUESTION_OPTION技术措施
+QUESTION_OPTION避险措施
+QUESTION_OPTION防误操作措施
+QUESTION_ORDER下列哪些是保证在电气设备上安全工作的组织措施？（）
+QUESTION_OPTION工作许可制度
+QUESTION_OPTION悬挂标示牌
+QUESTION_OPTION停电
+QUESTION_OPTION工作票制度
+QUESTION_OPTION验电
+QUESTION_ORDER下列工作哪些需要填用第一种工作票？（）：
+QUESTION_OPTION高压设备上工作需要全部停电者
+QUESTION_OPTION高压电力电缆需停电的工作
+QUESTION_OPTION二次系统和照明等回路上的工作，需要将高压设备停电或做安全措施者
+QUESTION_OPTION高压电力电缆不需停电的工作
+QUESTION_ORDER下列哪些工作，应填用第二种工作票？（）
+QUESTION_OPTION控制盘和低压配电盘、配电箱、电源干线上的工作
+QUESTION_OPTION二次系统上的工作，无需将高压设备停电但需要做一些安全措施者
+QUESTION_OPTION运行人员用钳型电流表测量高压回路的电流
+QUESTION_OPTION非运行人员用绝缘棒和电压互感器定相
+QUESTION_ORDER下列哪些工作，应填用带电作业工作票？（）
+QUESTION_OPTION带电作业工作
+QUESTION_OPTION与邻近带电设备距离小于表2－1规定的工作
+QUESTION_OPTION非运行人员用绝缘棒和电压互感器定相
+QUESTION_OPTION非运行人员用钳型电流表测量高压回路的电流
+QUESTION_ORDER工作票的填写应正确、清楚，如有个别错、漏字需要修改，应（）。
+QUESTION_OPTION更换新票重写
+QUESTION_OPTION使用规范的符号
+QUESTION_OPTION字迹清楚
+QUESTION_OPTION在修改处盖章或签名
+QUESTION_ORDER一张工作票中，（）三者不得互相兼任。
+QUESTION_OPTION工作票签发人
+QUESTION_OPTION工作负责人
+QUESTION_OPTION专责监护人
+QUESTION_OPTION工作许可人
+QUESTION_ORDER供电单位或施工单位到用户变电站内施工时，工作票应由有权签发工作票的（）签发。
+QUESTION_OPTION供电单位
+QUESTION_OPTION承包单位
+QUESTION_OPTION用户单位
+QUESTION_OPTION施工单位
+QUESTION_ORDER施工设备属于下列哪些情况，才允许在几个电气连接部分使用一张工作票：（）
+QUESTION_OPTION属于同一电压
+QUESTION_OPTION几处工作共用一套测试仪器
+QUESTION_OPTION没有可能触及带电导体的几个电气连接部分
+QUESTION_OPTION同时停、送电
+QUESTION_OPTION位于同一楼层
+QUESTION_ORDER在几个电气连接部分上工作，同时符合下列哪些条件，可以使用一张第二种工作票？（）
+QUESTION_OPTION依次进行的工作
+QUESTION_OPTION不停电的工作
+QUESTION_OPTION同一类型的工作
+QUESTION_OPTION工作人员只有两人
+QUESTION_ORDER同时符合下列哪些条件，可以使用一张带电作业工作票？（）
+QUESTION_OPTION由同一个监护人监护的工作
+QUESTION_OPTION在同一变电站或发电厂升压站内进行
+QUESTION_OPTION依次进行的工作
+QUESTION_OPTION同一类型的带电作业工作
+QUESTION_ORDER以下哪些行为是燃气使用好习惯？（）
+QUESTION_OPTION经常查泄漏，定期进行安全自检
+QUESTION_OPTION不在燃气管道上缠绕电线或悬挂物品
+QUESTION_OPTION使用天然气的厨房不使用其他气源
+QUESTION_ORDER选用安装燃气器具应该注意以下哪些原则（）
+QUESTION_OPTION选购带有安全熄火保护装置的燃气灶具
+QUESTION_OPTION购买前询问和检查产品是否有生产许可证和产品合格证，有无售后服务
+QUESTION_OPTION选购价格低廉的产品，其它一律不看
+QUESTION_ORDER家中燃气着火时正确的应急措施有（）
+QUESTION_OPTION迅速关闭入户总阀门，切断气源，断气灭火
+QUESTION_OPTION当火势较大无法关闭阀门时，用干粉灭火器喷射火的根部，火灭后迅速关闭入户总阀门
+QUESTION_OPTION当火势较大无法控制时，迅速拨打火警电话
+QUESTION_ORDER各类作业人员应被告知其作业现场和工作岗位存在的（）及事故紧急处理措施。
+QUESTION_OPTION组织机构
+QUESTION_OPTION危险因素
+QUESTION_OPTION防范措施
+QUESTION_OPTION作业方法
+QUESTION_ORDER作业人员的基本条件之一：具备必要的（），且按工作性质，熟悉《安规》的相关部分，并经考试合格。
+QUESTION_OPTION学历
+QUESTION_OPTION电气知识
+QUESTION_OPTION特长
+QUESTION_OPTION业务技能
+QUESTION_ORDER作业人员的基本条件之一：具备必要的安全生产知识，学会（）。
+QUESTION_OPTION测量血压
+QUESTION_OPTION紧急救护法
+QUESTION_OPTION特别要学会触电急救
+QUESTION_OPTION注射
+QUESTION_ORDER在试验和推广（）的同时，应制定相应的安全措施，经本单位总工程师批准后执行。
+QUESTION_OPTION新技术
+QUESTION_OPTION新工艺
+QUESTION_OPTION新设备
+QUESTION_OPTION新材料
+QUESTION_OPTION新经验
+QUESTION_ORDER各单位可根据现场情况制定本规程补充条款和实施细则，经（）批准后执行。
+QUESTION_OPTION当地政府
+QUESTION_OPTION本单位主管生产的领导
+QUESTION_OPTION本单位总工程师
+QUESTION_OPTION上级主管部门
+QUESTION_ORDER待用间隔应该（）。
+QUESTION_OPTION有隔离措施
+QUESTION_OPTION列入调度管辖范围
+QUESTION_OPTION有名称
+QUESTION_OPTION有编号
+QUESTION_OPTION做特殊标志
+QUESTION_ORDER工作票的填写应正确、清楚，如有个别错、漏字需要修改，应（）。
+QUESTION_OPTION更换新票重写
+QUESTION_OPTION使用规范的符号
+QUESTION_OPTION字迹清楚
+QUESTION_OPTION在修改处盖章或签名
+QUESTION_ORDER一张工作票中，（）三者不得互相兼任。
+QUESTION_OPTION工作票签发人
+QUESTION_OPTION工作负责人
+QUESTION_OPTION专责监护人
+QUESTION_OPTION工作许可人

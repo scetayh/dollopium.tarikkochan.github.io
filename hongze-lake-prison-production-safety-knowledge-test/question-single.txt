@@ -1,0 +1,18 @@
+QUESTION_ORDER为了加强安全生产工作，（   ）生产安全事故，保障人民群众生命和财产安全，促进经济社会持续健康发展，制定《安全生产法》。
+D
+QUESTION_OPTION防止
+QUESTION_OPTION减少
+QUESTION_OPTION杜绝
+QUESTION_OPTION防止和减少
+QUESTION_ORDER国家实行生产安全事故责任追究制度，依照《安全生产法》和有关法律、法规的规定，追究（   ）的法律责任。
+D
+QUESTION_OPTION生产安全事故发生单位负责人
+QUESTION_OPTION生产安全事故直接责任者
+QUESTION_OPTION生产安全事故单位监管部门
+QUESTION_OPTION生产安全事故责任单位和责任人员
+QUESTION_ORDER安全生产工作坚持中国共产党的领导。安全生产工作应当以人为本，坚持人民至上、生命至上，把保护人民生命安全摆在首位，树牢（   ）理念，坚持安全第一、预防为主、综合治理的方针，从源头上防范化解重大安全风险。
+A
+QUESTION_OPTION安全发展
+QUESTION_OPTION经济发展
+QUESTION_OPTION社会发展
+QUESTION_OPTION和谐发展

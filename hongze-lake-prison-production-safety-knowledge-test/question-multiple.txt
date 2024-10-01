@@ -1,0 +1,18 @@
+QUESTION_ORDER安全生产工作应当（   ），从源头上防范化解重大安全风险。
+ABCD
+QUESTION_OPTION以人为本
+QUESTION_OPTION坚持人民至上、生命至上
+QUESTION_OPTION把保护人民生命安全摆在首位，树牢安全发展理念，
+QUESTION_OPTION坚持安全第一、预防为主、综合治理的方针
+QUESTION_ORDER安全生产工作实行（   ），强化和落实生产经营单位主体责任与政府监管责任，建立生产经营单位负责、职工参与、政府监管、行业自律和社会监督的机制。
+ABC
+QUESTION_OPTION管行业必须管安全
+QUESTION_OPTION管业务必须管安全
+QUESTION_OPTION管生产经营必须管安全
+QUESTION_OPTION管生产必须管安全
+QUESTION_ORDER生产经营单位必须遵守本法和其他有关安全生产的法律、法规，加强安全生产管理，建立健全全员安全生产责任制和安全生产规章制度，加大对安全生产(   )的投入保障力度。
+ABCD
+QUESTION_OPTION资金
+QUESTION_OPTION物资
+QUESTION_OPTION技术
+QUESTION_OPTION人员
