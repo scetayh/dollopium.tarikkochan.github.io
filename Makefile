@@ -7,11 +7,11 @@ GITHUB_REPOSITORY_NAME = dollopium.tarikkochan.github.io
 .PHONY: deploy
 
 ${PROJECT_NAME}:
-	cd hongze-lake-prison-production-safety-knowledge-test && \
+	cd prodsafe-test && \
 	rm -rf debug/* && \
 	bash main.sh >> debug/index.html && \
 	cp -r sources/js/ debug/
-	open hongze-lake-prison-production-safety-knowledge-test/debug/index.html
+	open prodsafe-test/debug/index.html
 
 deploy:
 	git remote remove origin
